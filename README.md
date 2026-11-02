@@ -1,6 +1,6 @@
 ## Hi, I'm Zidiq Saeed 👋
 
-**Full-stack developer based in Egypt.** I build complete systems end to end: web apps, admin/staff dashboards, backends and databases, for businesses and government.
+**Full-stack developer based in Hargeisa.** I build complete systems end to end: web apps, admin/staff dashboards, backends and databases, for businesses and government.
 
 ### 🛠️ Tech stack
 JavaScript · React · Node.js · PostgreSQL · SQLite · HTML/CSS · REST APIs
